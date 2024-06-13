@@ -6,4 +6,6 @@ About the definition, please refer to:
 
 [2] Gil, José J., and Razvigor Ossikovski. Polarized light and the Mueller matrix approach. CRC press, 2022.
 
+The following processed image is from a 320nm CNC sample measured by polarized Microscopy, provided by Institute of Materials Science of Barcelona (ICMAB-CSIC).
+
 ![CNC-470_depolarizing index](https://github.com/LunaMao/Polarization-observables-helper/assets/160859098/69083f55-f6e1-4102-82d6-20213749e531)
